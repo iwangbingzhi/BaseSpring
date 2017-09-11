@@ -555,7 +555,7 @@
       <workItem from="1502957865866" duration="4145000" />
       <workItem from="1503211749531" duration="3260000" />
       <workItem from="1503302731502" duration="4744000" />
-      <workItem from="1505112025533" duration="595000" />
+      <workItem from="1505112025533" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="基础的spring">
       <created>1505112149370</created>
@@ -585,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505112417165</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="基础的spring&#10;spring基本配置">
+      <created>1505112636462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505112636478</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12744000" />
+    <option name="totallyTimeSpent" value="12905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -667,7 +674,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基础的spring" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础的spring" />
+    <MESSAGE value="基础的spring&#10;spring基本配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础的spring&#10;spring基本配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
