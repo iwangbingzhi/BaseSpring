@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12020f5f-d76d-42bb-a40a-9f6fbcada075" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spring2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applicationcontext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/apple/wbz/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/apple/wbz/zhujie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/google/wbz/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/google/wbz/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/google/wbz/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/google/wbz/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/google/wbz/myspringdemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/google/wbz/propertyDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -621,12 +609,20 @@
       <workItem from="1502957865866" duration="4145000" />
       <workItem from="1503211749531" duration="3260000" />
       <workItem from="1503302731502" duration="4744000" />
-      <workItem from="1505112025533" duration="105000" />
+      <workItem from="1505112025533" duration="185000" />
     </task>
+    <task id="LOCAL-00001" summary="基础的spring">
+      <created>1505112149370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505112149370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12254000" />
+    <option name="totallyTimeSpent" value="12334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -701,6 +697,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基础的spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础的spring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -856,6 +856,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
