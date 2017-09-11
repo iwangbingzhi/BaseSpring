@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <!--开启注解扫描
+        到包里面扫描类，方法，属性
+    -->
+    <context:component-scan base-package="com.apple.wbz">
+    </context:component-scan>
+
+    <!--扫描属性上面的注解-->
+  <!--  <context:annotation-config>
+
+    </context:annotation-config>-->
+    <!--<bean id="user" class="com.google.wbz.User" scope="prototype">
+
+    </bean>
+    &lt;!&ndash; 有参数的构造注入属性&ndash;&gt;
+    &lt;!&ndash;<bean id="demo" class="com.google.wbz.propertyDemo1">
+            <con-arg name="" value=""/>
+    </bean>&ndash;&gt;
+    &lt;!&ndash;使用set注入属性&ndash;&gt;
+  &lt;!&ndash;  <bean id="book" class="com.google.wbz.Book">
+        <property name="bookname" value="java"/>
+    </bean>&ndash;&gt;
+
+
+    &lt;!&ndash;注入对象类型属性&ndash;&gt;
+    <bean id="userDao" class="com.google.wbz.UserDao">
+
+    </bean>
+    <bean id="userService" class="com.google.wbz.UserService">
+     <property name="userDao" ref="userDao"/>
+    </bean>-->
+</beans>
